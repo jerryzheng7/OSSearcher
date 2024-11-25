@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# Copyright 2024 Jerry Zheng jzheng7@bu.edu
-# Copyright 2024 Thomas Kelly kellthom@bu.edu
 import sys
 import os
 import fnmatch
